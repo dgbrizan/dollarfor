@@ -1,6 +1,6 @@
 # dollarfor
 
-# Helping the volunteer organisation DollarFor
+# Helping the volunteer organization DollarFor
 
 We (Terence Lin, Justin Le and I) got some data from the [University of North Carolina](https://www.shepscenter.unc.edu/programs-projects/rural-health/data/). [Our notebook](https://github.com/dgbrizan/dollarfor/blob/main/DF%20-%20Hospitals.ipynb) has the following findings:
 
